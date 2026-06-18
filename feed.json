@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Antique Victorian Furniture",
+    "description": "",
+    "home_page_url": "https://hamzawagih.github.io",
+    "feed_url": "https://hamzawagih.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://hamzawagih.github.io/media/website/h_GpU_icon.ico",
+    "author": {
+        "name": "Alvaro Blanco"
+    },
+    "items": [
+    ]
+}

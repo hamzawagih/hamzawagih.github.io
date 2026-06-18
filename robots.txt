@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hamzawagih.github.io/sitemap.xml
