@@ -5,6 +5,16 @@
         "md5": "487b27fd8cf6a3f9b2a6b63596c5a1fe"
     },
     {
+        "path": "a-glossary-of-victorian-furniture-terms-design-definitions-motifs-structural-components",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-glossary-of-victorian-furniture-terms-design-definitions-motifs-structural-components/index.html",
+        "type": "file",
+        "md5": "970431361487380ba0166ff18b19fe8e"
+    },
+    {
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -75,19 +85,104 @@
         "md5": false
     },
     {
+        "path": "authors/alvaro-blanco",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/alvaro-blanco/index.html",
+        "type": "file",
+        "md5": "19071d67397a0f6a1baccbc8f4a08c0a"
+    },
+    {
+        "path": "authors/alvaro-blanco/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/alvaro-blanco/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/alvaro-blanco/page/2/index.html",
+        "type": "file",
+        "md5": "424664d75d3fe1a1efbc34bc6f4ce2c0"
+    },
+    {
+        "path": "authors/alvaro-blanco/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/alvaro-blanco/page/3/index.html",
+        "type": "file",
+        "md5": "facf36ca94b1f83add934dcffcc18fe6"
+    },
+    {
+        "path": "buying-antique-victorian-furniture-where-to-shop-pricing-red-flags-negotiating",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buying-antique-victorian-furniture-where-to-shop-pricing-red-flags-negotiating/index.html",
+        "type": "file",
+        "md5": "9279b313624ac929675c5c3f340ea174"
+    },
+    {
+        "path": "caring-for-antique-victorian-furniture-cleaning-upholstery-repairs-restoration-vs-preservation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/caring-for-antique-victorian-furniture-cleaning-upholstery-repairs-restoration-vs-preservation/index.html",
+        "type": "file",
+        "md5": "f13f51ac392ff9c599da7063a58508f2"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "f7f03b902bf5c75afd247020088d82ad"
+        "md5": "214f5547a073cfbf23c495af64866b77"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "20175092c773c9ba6228578ed8a3d4ad"
+        "md5": "a790348c78426e2192d1a7d8468d3f74"
+    },
+    {
+        "path": "how-much-is-antique-victorian-furniture-worth-valuation-factors-appraisal-tips-market-trends",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-much-is-antique-victorian-furniture-worth-valuation-factors-appraisal-tips-market-trends/index.html",
+        "type": "file",
+        "md5": "b9b823ec164f9d1e73b9f6d467d88aa6"
+    },
+    {
+        "path": "how-to-identify-antique-victorian-furniture-wood-joinery-hardware-patina-reproductions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-identify-antique-victorian-furniture-wood-joinery-hardware-patina-reproductions/index.html",
+        "type": "file",
+        "md5": "f05ae0a7f4d99561a6d25075b20b0e77"
+    },
+    {
+        "path": "how-to-start-a-victorian-furniture-collection-beginner-roadmap-budgeting-sourcing-first-pieces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-start-a-victorian-furniture-collection-beginner-roadmap-budgeting-sourcing-first-pieces/index.html",
+        "type": "file",
+        "md5": "e3b74fcb61ea92497745deb3f36b1461"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4292b35e1551b521eb1c2af19f7b0c83"
+        "md5": "ac9825baab960ab23058864703758b31"
     },
     {
         "path": "media",
@@ -105,6 +200,41 @@
         "md5": "294c56c5a2176579abe8f3c5acfdc223"
     },
     {
+        "path": "notable-victorian-furniture-makers-famous-craftsmen-manufacturers-historical-signatures",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/notable-victorian-furniture-makers-famous-craftsmen-manufacturers-historical-signatures/index.html",
+        "type": "file",
+        "md5": "6f29046ee462c0b7727e2a602e6ea3b7"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "f0ce12524abfe6a5f71435430182d297"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "027478b6c7e150fdabb772885061554b"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "cd2b1b90627542482465b982b4bb9202"
@@ -112,12 +242,22 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "eeb996fedd1bc393809a12079d675d78"
+        "md5": "1e6892a2a0783ce4d8fb4e797aa107c2"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "styling-victorian-furniture-in-a-modern-home-mixing-eras-color-room-by-room-ideas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/styling-victorian-furniture-in-a-modern-home-mixing-eras-color-room-by-room-ideas/index.html",
+        "type": "file",
+        "md5": "e61bfab70ee179b6605a3e513c9d0a20"
     },
     {
         "path": "tags",
@@ -128,5 +268,35 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "8474e49caa4945ae09309cadff52876d"
+    },
+    {
+        "path": "the-woods-of-the-victorian-era-material-deep-dive-grain-identification-popularity-shifts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-woods-of-the-victorian-era-material-deep-dive-grain-identification-popularity-shifts/index.html",
+        "type": "file",
+        "md5": "4a52bd631690982c9a4d3f72de50878f"
+    },
+    {
+        "path": "victorian-furniture-styles-guide-gothic-rococo-renaissance-revival-eastlake-aesthetic-movement",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-furniture-styles-guide-gothic-rococo-renaissance-revival-eastlake-aesthetic-movement/index.html",
+        "type": "file",
+        "md5": "d738fb1d4c9e9c1b7b15776d290cef89"
+    },
+    {
+        "path": "victorian-vs-edwardian-vs-georgian-furniture-comparing-eras-style-evolutions-visual-tells",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-vs-edwardian-vs-georgian-furniture-comparing-eras-style-evolutions-visual-tells/index.html",
+        "type": "file",
+        "md5": "875c7c4aed6d6b1c464ac86dca458738"
     }
 ]
